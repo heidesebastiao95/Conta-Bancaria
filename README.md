@@ -1,2 +1,3 @@
 # Conta Bancaria
- V.1
+ Fazer um programa que permite criar uma conta bancária.
+  O programa deve também permitir depósito e saque na conta.
